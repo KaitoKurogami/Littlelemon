@@ -7,6 +7,9 @@ auth/
 auth/users  
 auth/token/login  
 
+There is also the API  
+/restaurant/api-token-auth/ that receives a POST with username and password and gives a token to put in the Bearer tab in insomnia
+
 # API to show the static file
 restaurant/
 
